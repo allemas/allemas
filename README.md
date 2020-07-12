@@ -10,7 +10,7 @@ I'm Sebastien, I'm a Craftsman and Devops
 📫 Read my [Blog](https://http://sebastienallemand.fr/)
 
 ## ⚡ Technologies
-- Creating scalable cloud architecture using **Openstack, Docker, K8s etc. **
+- Creating scalable cloud architecture using **Openstack, Docker, K8s etc.**
 - Robust full-stack system design implementation
 - Backend development using **PHP, Java, Node**
 - Front-end development using **HTML, Javascript,CSS, React**
