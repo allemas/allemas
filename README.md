@@ -14,4 +14,4 @@ I'm Sebastien, I'm a Craftsman and Devops
 - Front-end development using **HTML, Javascript,CSS, React**
 - Making for **Relational Database Management Systems**
 
-📫 Read my [Blog](https://http://sebastienallemand.fr/)
+📫 Read my [Blog](https://sebastienallemand.fr/)
